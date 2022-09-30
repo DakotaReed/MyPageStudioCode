@@ -1,0 +1,62 @@
+body {
+    background: #d9edea;
+    font: 12px Ariel, "Courier New";
+    text-shadow: 1px 1px 1px rgb(241, 250, 251);
+
+    /* margin: 0;
+    padding: 0;
+    border: 2px solid #747c7b; */
+}
+div {
+    background: #bde7e1;
+    font-size: small;
+}
+div.me {
+    font-size: x-small;
+}
+div.link {
+    font-size: 20;
+}
+div.grade {
+    background: #d9edea;
+    text-align: center;
+}
+h1 {
+    text-align: center;
+}
+h3 {
+    color: rgb(174, 174, 174);
+}
+h4 {
+    text-align: center;
+}
+
+p {
+    background: #9cece0;
+    font-size: 40;
+    text-shadow: 2px 2px 2px #FFF;
+    font-weight: bold;
+    /* font-variant: small-caps */
+}
+p.grade {
+    text-align: center;
+}
+p.numberOfExercise {
+    text-align: center;
+    font-size: 27;
+    background: #b1e8e0;
+    border-style: outset;
+}
+p.comment {
+    font-size: 15;
+    text-align: center;
+}
+p.first {
+    font-size: 10;
+}
+form {
+    font-size: 19;
+}
+form.final {
+    text-align: center;
+}
